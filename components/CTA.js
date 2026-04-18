@@ -35,7 +35,7 @@ export default function CTA() {
           className="mt-10"
         >
           <a
-            href="https://wa.me/"
+            href="https://wa.me/628133361070"
             className="bg-[#2d2d2d] text-white px-8 py-3 rounded-full text-sm hover:opacity-90 transition"
           >
             Hubungi Sekarang
