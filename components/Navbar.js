@@ -36,7 +36,7 @@ export default function Navbar() {
 
   return (
     <nav className="flex justify-between items-center px-8 py-5 border-b border-[#eee] sticky top-0 bg-[#fdfaf6]/95 backdrop-blur-md z-50">
-      <h1 className="text-xl font-semibold tracking-wide">AUTOMATE.ID</h1>
+      <h1 className="text-xl font-semibold tracking-wide">TOKOIOS</h1>
       <div className="space-x-6 text-sm">
         <a href="#home" className={getLinkClass("home")}>Home</a>
         <a href="#features" className={getLinkClass("features")}>Features</a>
